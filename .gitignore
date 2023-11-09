@@ -1,4 +1,5 @@
 .vscode
 a.out
+shell
 *.txt
 !readme.txt
